@@ -1,3 +1,0 @@
-pool: PROD-FACTORY
-steps:
-- bash: echo hello world

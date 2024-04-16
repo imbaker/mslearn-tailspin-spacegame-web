@@ -9,7 +9,7 @@ steps:
     arguments: '--no-restore --configuration ${{ parameters.BuildConfiguration }}'
     projects: '**/*.csproj'
 
-- task: DotNetCoreSLI@2
+- task: DotNetCoreCLI@2
   displayName: 'Publish the project -  ${{ parameters.BuildConfiguration }}'
   inputs:
     command: 'publish'

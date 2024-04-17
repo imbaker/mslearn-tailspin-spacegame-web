@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/rdt-limited/ScratchPad/_apis/build/status%2Fimbaker.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/rdt-limited/ScratchPad/_build/latest?definitionId=886&branchName=main)
 
 # Contributing
 
